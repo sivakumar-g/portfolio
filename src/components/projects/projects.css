@@ -1,0 +1,32 @@
+body{
+    
+}
+.a{
+    display: flex;
+    align-items: center;
+    /* height: 130vh; */
+    background-color: rgb(239, 243, 205);
+    margin-bottom: 10px;
+}
+
+.a1{
+    flex: 1;
+    margin: 5%;
+    margin-bottom: 0%;
+}
+
+
+@media screen and (max-width: 480px) {
+   
+    .a{
+        /* flex-direction: column; */
+    }
+
+    
+.a1{
+    flex-direction: column;
+    background-color: rgb(239, 243, 205);
+}
+
+
+  }

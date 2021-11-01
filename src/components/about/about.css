@@ -1,0 +1,259 @@
+
+
+
+.a{
+  /* height: 100vh; */
+  /* height: auto; */
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    /* background-color: rgb(239, 243, 205); */
+    background-color: rgb(227, 240, 113);
+    /* margin-bottom: 20%; */
+  }
+.a-left{
+    flex: 1;
+    height: 100%;
+
+}
+
+
+body {
+    /* background: #9cc8df; */
+  /* background: yellowgreen; */
+  /* background-color: yellowgreen; */
+  /* background-color: rgb(227, 240, 113); */
+ 
+  background-color: rgb(239, 243, 205);
+
+    font-family: "Montserrat", sans-serif;
+    font-size: 6px;
+    color: rgb(53, 53, 53);
+    /* color: rgb(239, 243, 245); */
+  }
+  
+  .title {
+    font-size: 2em;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+  }
+  
+  h3 {
+    padding-top: 0.25em;
+  }
+
+  .vertical-timeline-element-title{
+    font-size: 15px;
+    padding-bottom: 1%;
+  }
+
+.vertical-timeline-element-content {
+    box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25), 0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+    padding: 2em 3em !important;
+    font-size: 13px;
+  }
+  
+  .date {
+    color: rgb(36, 235, 29);
+    margin: 3%;
+  }
+  
+  #description {
+    margin: 1.5em 0 2em 0;
+    font-size: 12px;
+  }
+  
+  .button {
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  .workButton {
+    background-color: #06d6a0;
+  }
+  
+  .workButton:hover {
+    background-color: #0ac593;
+  }
+  
+  .schoolButton {
+    background-color: #f9c74f;
+  }
+  
+  .schoolButton:hover {
+    background-color: #f3bc3c;
+  }
+
+
+  .a-right{
+    flex: 1;
+    height: 100%;
+}
+
+
+  
+.a-title {
+    font-weight: 400;
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .a-sub {
+    margin: 20px 0px;
+    align-items: center;
+    font-size: medium;
+    text-align: center;
+  }
+  
+  .a-desc{
+      font-weight: 300;
+      align-items: center;
+      font-size: small;
+      text-align: center;
+    }
+
+.circularbar{
+  align-items: center;
+  margin-left: '500px';
+}
+.linerbar{
+  /* flex: content;
+  width: '10px'; */
+  margin-right: 5%;
+  margin: 5%;
+  margin-top: 0.8%;
+}
+
+.progresslabel{
+
+  font-size: 13px;
+  left: 0;
+  margin-left: 5%;
+  font-weight: 500;
+}
+
+.workIconStyles{
+  background: "#06D6A0";
+  padding:'1.5%'
+}
+
+
+.schoolIconStyles{
+  background: "#f9c74f";
+  padding:'1.5%'
+}
+
+
+.workImg{
+  height:'30px';width:'30px';marginLeft:'5px'
+}
+
+.schoolImg{
+  size:'1px';height:'30px';width:'30px';marginLeft:'5px'
+}
+
+  @media only screen and (max-width: 1700px) {
+    .vertical-timeline-element-date {
+      display: block !important;
+      float: none !important;
+      color: rgb(44, 44, 44);
+      margin-top: 1.5em;
+    }
+  }
+
+
+  
+  @media screen and (max-width: 480px) {
+    
+    .a{
+        flex-direction: column;
+    }
+
+    .a-left{
+        margin-left: 10px;
+        /* margin-right: 10px; */
+    }
+
+    .a-right{
+margin-bottom: 50%;
+    }
+
+    
+
+  }
+
+
+
+
+
+
+  @media screen and (max-width: 480px) {
+    .c-wrapper {
+      flex-direction: column;
+      padding: 0px 50px;
+    }
+.a{
+  /* margin-bottom: 210%;
+  margin-bottom: 110%; */
+}
+
+.a-right{
+  flex: 1;
+  height: 75%;
+  font-size: small;
+  margin-right: 5%;
+}
+.a-left{
+  flex: 1;
+  height: 75%;
+}
+
+.a-desc{
+  flex-wrap: wrap;
+  font-weight: 300;
+  align-items: center;
+  font-size: 15px;
+  text-align: center;
+}
+.date {
+  color: rgb(36, 235, 29);
+  margin: 1%;
+}
+
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25), 0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+  /* padding: 2em 3em !important; */
+  font-size: 13px;
+}
+
+.workImg{
+  height:'30px';width:'30px';marginLeft:'5px'
+}
+
+.schoolImg{
+  size:'1px';height:'30px';width:'30px';marginLeft:'5px'
+}
+
+
+.a-title {
+  font-weight: 400;
+  font-size: 40px;
+  align-items: center;
+  text-align: center;
+}
+
+.a-sub {
+  margin: 10px 0px;
+  align-items: center;
+  font-size: medium;
+  text-align: center;
+}
+
+
+  }  /* screen 480 */
+ 
+
+  
