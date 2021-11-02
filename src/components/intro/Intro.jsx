@@ -51,7 +51,7 @@ function intro() {
             </div>
         </div>
         <p className="i-desc">
-            I design and develop applications to enrich you business need by enriching stuffs I have
+            I design and develop applications to enrich your business need by enriching Skills I have !
           </p>
           <a href='https://drive.google.com/file/d/1VwMNDnwGpvUdzYuDuaJq5m1YUlRuHjJb/view'>
           <Button variant="outlined" style={{marginTop:'10px'}}>Resume</Button></a>

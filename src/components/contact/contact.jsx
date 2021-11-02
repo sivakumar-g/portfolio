@@ -84,9 +84,9 @@ function Contact() {
             </form>
           </div>
         </div>
-        <div style={{font:'bold',margin:'5%'}}>All Copyrights reserved @2021</div>
+        <div style={{font:'bold',margin:'5%'}}>All rights reserved @2021 Sivakumar</div>
         {/* <div style={{font:'bold',margin:'1%',display: 'inline',fontSize:'1%'}}>Built with <Heart isClick={true} style={{fontSize:'0.2px'}}/> by Sivakumar</div> */}
-        <div>Built with <i class="fas fa-heart" style={{  fontSize: '50px',color:'red'}}></i> </div>
+        {/* <div>Built with <i class="fas fa-heart" style={{  fontSize: '50px',color:'red'}}></i> </div> */}
         {/* <div>Built with <img src=></img> </div> */}
       </div>    )
 }

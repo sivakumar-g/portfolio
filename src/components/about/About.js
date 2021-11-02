@@ -98,15 +98,14 @@ useEffect(() => {
           </h1>
 
       <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          A pro active Software developer with efficient data structures and algorithmic Skills to address complex 
+          problems with simple business solutions.
         </p>
 
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          I am a Full Stack Developer with more than 2.5 years of Experience building Scalable 
+web applications to address real world problems by building tangible software
+products & a passionate mentor to share Knowledge and enrich people
         </p>
 
 

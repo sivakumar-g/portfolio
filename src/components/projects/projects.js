@@ -18,7 +18,9 @@ import Fade from "react-reveal/Fade";
         }}
       >
 <div style={{fontSize:'16px',color:'white'}}>{props?.dataobj?.ftitle}</div>
-
+<br/>
+{props?.dataobj?.flink != null || props?.dataobj?.flink != undefined ?(
+<div style={{fontSize:'16px',color:'white',backgroundColor:'white'}}><a href={props?.dataobj?.flink}> Checkout here</a></div>):''}
 
          
          
@@ -49,6 +51,9 @@ import Fade from "react-reveal/Fade";
           <div style={{fontSize:'12px',margin:'3%',overflow:'hidden',marginTop:'0%'}}>{props?.dataobj?.fbody}</div> */}
           
           <div style={{fontSize:'12px',margin:'1%',overflow:'hidden',marginTop:'0%'}}>{props?.dataobj?.ftech}</div> 
+<br/>
+{props?.dataobj?.flink != null || props?.dataobj?.flink != undefined ?(
+<div style={{fontSize:'16px',color:'white',backgroundColor:'white'}}><a href={props?.dataobj?.flink}> Checkout here</a></div>):''}
 
            <span 
           style={{
@@ -104,7 +109,9 @@ users and buy the products through the application`,
   
   'fbody':`Where I have done multiple projects on different stacks which suits the requirement demands`,
   
-  'ftech':`Technologies: MongoDB, Azure Services, Docker, React, Express.js (Node),Java,SQL`
+  'ftech':`Technologies: MongoDB, Azure Services, Docker, React, Express.js (Node),Java,SQL`,
+
+  'flink':'https://github.com/sivakumar-g'
   
   },
   
