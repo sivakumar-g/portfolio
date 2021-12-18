@@ -65,7 +65,7 @@ function Contact() {
               </div> 
                          <div className="c-info-item">
                 <img className="c-icon" src={Address} alt="" />
-                Chennai, India
+                Chennai, India .
               </div>
             </div>
           </div>
