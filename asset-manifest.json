@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c681e671.chunk.css",
+    "main.js": "/portfolio/static/js/main.4f1e135e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4f1e135e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.3e65635f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3e65635f.js.map",
+    "static/css/2.937e3d67.chunk.css": "/portfolio/static/css/2.937e3d67.chunk.css",
+    "static/js/2.0f835997.chunk.js": "/portfolio/static/js/2.0f835997.chunk.js",
+    "static/js/2.0f835997.chunk.js.map": "/portfolio/static/js/2.0f835997.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.937e3d67.chunk.css.map": "/portfolio/static/css/2.937e3d67.chunk.css.map",
+    "static/css/main.c681e671.chunk.css.map": "/portfolio/static/css/main.c681e671.chunk.css.map",
+    "static/js/2.0f835997.chunk.js.LICENSE.txt": "/portfolio/static/js/2.0f835997.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/portfolio/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/portfolio/static/media/email.a49e0158.png",
+    "static/media/myImage.2b81008b.jpg": "/portfolio/static/media/myImage.2b81008b.jpg",
+    "static/media/phone.d90a6d23.png": "/portfolio/static/media/phone.d90a6d23.png",
+    "static/media/schoolIcon.6650c954.png": "/portfolio/static/media/schoolIcon.6650c954.png",
+    "static/media/workIcon.5ff3388e.png": "/portfolio/static/media/workIcon.5ff3388e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e65635f.js",
+    "static/css/2.937e3d67.chunk.css",
+    "static/js/2.0f835997.chunk.js",
+    "static/css/main.c681e671.chunk.css",
+    "static/js/main.4f1e135e.chunk.js"
+  ]
+}
