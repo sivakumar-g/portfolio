@@ -105,7 +105,7 @@ users and buy the products through the application`,
 },
 
 {
-  'ftitle':`Checkout my Githiub for more`,
+  'ftitle':`Checkout my Github for more`,
   
   'fbody':`Where I have done multiple projects on different stacks which suits the requirement demands`,
   

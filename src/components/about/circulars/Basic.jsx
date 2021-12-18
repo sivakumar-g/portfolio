@@ -69,7 +69,7 @@ const Basic = ({ progress }) => (
     left:'23%',
     // margin:'auto',
     userselect: 'none',}}>
-                <div style={{fontSize:'15px'}}>250+ DSA  Solved</div>
+                <div style={{fontSize:'15px'}}>200+ DSA  Solved</div>
             </div>
         </ProgressBar>
     </div>

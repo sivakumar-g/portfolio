@@ -257,3 +257,73 @@ margin-bottom: 50%;
  
 
   
+
+
+  
+  @media screen and (max-width: 1050px) {
+    .c-wrapper {
+      /* flex-direction: column; */
+      padding: 0px 50px;
+    }
+.a{
+  /* margin-bottom: 210%;
+  margin-bottom: 110%; */
+}
+
+.a-right{
+  flex: 1;
+  height: 75%;
+  font-size: small;
+  margin-right: 15%;
+}
+.a-left{
+  flex: 1;
+  height: 75%;
+}
+
+.a-desc{
+  flex-wrap: wrap;
+  font-weight: 300;
+  align-items: center;
+  font-size: 15px;
+  text-align: center;
+}
+.date {
+  color: rgb(36, 235, 29);
+  margin: 1%;
+}
+
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25), 0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+  /* padding: 2em 3em !important; */
+  font-size: 13px;
+}
+
+.workImg{
+  height:'30px';width:'30px';marginLeft:'5px'
+}
+
+.schoolImg{
+  size:'1px';height:'30px';width:'30px';marginLeft:'5px'
+}
+
+
+.a-title {
+  font-weight: 400;
+  font-size: 40px;
+  align-items: center;
+  text-align: center;
+}
+
+.a-sub {
+  margin: 10px 0px;
+  align-items: center;
+  font-size: medium;
+  text-align: center;
+}
+
+
+  }  /* screen 480 */
+ 
+
+  
