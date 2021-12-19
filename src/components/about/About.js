@@ -120,11 +120,11 @@ products & a passionate mentor to share Knowledge and enrich people
 <div className='progresslabel'>React</div>
 <div className='linerbar'><LineProgress progress={85} text={'HTML'}/></div>
 
-<div className='progresslabel'>Node Js</div>
-<div className='linerbar'><LineProgress progress={80} text={'HTML'}/></div>
+<div className='progresslabel'>Spring Boot</div>
+<div className='linerbar'><LineProgress progress={70} text={'HTML'}/></div>
 
-<div className='progresslabel'>Python Flask</div>
-<div className='linerbar'><LineProgress progress={60} text={'HTML'}/></div>
+<div className='progresslabel'>Node js</div>
+<div className='linerbar'><LineProgress progress={70} text={'HTML'}/></div>
 
 <div className='progresslabel'>SQL</div>
 <div className='linerbar'><LineProgress progress={75} text={'HTML'}/></div>

@@ -93,6 +93,7 @@ through react and Flask (Scratch to Deployment as a pilot developer`,
 
 'ftech':`Technologies: MongoDB, Azure Services, Docker, React, Python Flask`
 },
+/*
 {
 'ftitle':`Ecommerce Boot camp Project [MERN Stack]`,
 
@@ -103,7 +104,17 @@ users and buy the products through the application`,
 'ftech':`Technologies: MongoDB, Azure Services, Docker, React, Express.js (Node)`
 
 },
+*/
 
+{'ftitle':'Assesment Portal Application: [Spring Boot]',
+
+  'fbody':`A Quiz assesment portal apploication where admins can create and publish Quiz contest where people
+  can participate and being get assessed which is been built on top of Spring Boot Java and Angular on UI
+  
+  Where the assesment scored has been calculated and shown to the users at the end of the Assesments`,
+
+'ftech':`Technologies: SQL, Angular, Spring Boot`
+},
 {
   'ftitle':`Checkout my Github for more`,
   
