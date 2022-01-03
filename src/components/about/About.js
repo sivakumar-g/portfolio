@@ -10,13 +10,16 @@ import Cut from './circulars/Circular'
 import Basic from './circulars/Basic.jsx'
 import LineProgress from './circulars/LineProgress'
 import Fade from "react-reveal/Fade";
-
 import {
   VerticalTimeline,
   VerticalTimelineElement,
 } from "react-vertical-timeline-component"
-
+import ReactStars from "react-rating-stars-component";
+import { FaBeer } from 'react-icons/fa';
+import { BsFillStarFill } from 'react-icons/bs';
+import { HiExternalLink } from 'react-icons/hi';
 import "react-vertical-timeline-component/style.min.css"
+import Tooltip from '@material-ui/core/Tooltip';
 
 
 function About() {
@@ -178,6 +181,20 @@ let showButton =
                 {element.location}
               </h5>
               <p id="description">{element.description}</p>
+
+              {typeof(element.awards)!='undefined'?(<>{element.awards.map(awards=>{
+             return <div style={{marginBottom:'5px'}}>
+               {/* <img  src={awards.iconUrl} />  */}
+               {/* <ReactStars
+    count={1}
+    // onChange={ratingChanged}
+    size={24}
+    activeColor="#ffd700"
+    color="#ffd700"
+  />  */}
+  <BsFillStarFill /> <a href={awards.url} >{awards.name} <HiExternalLink /></a></div>
+              })
+              }</>):('')}
 
               {/* {showButton && (
                 <a

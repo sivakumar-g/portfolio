@@ -53,7 +53,7 @@ function intro() {
         <p className="i-desc">
             I design and develop applications to enrich your business need by enriching Skills I have !
           </p>
-          <a href='https://drive.google.com/file/d/1VwMNDnwGpvUdzYuDuaJq5m1YUlRuHjJb/view'>
+          <a href='https://drive.google.com/file/d/1NDD-0s83ylZ3_-ch0hb3AKv-QS4g594D/view?usp=sharing'>
           <Button variant="outlined" style={{marginTop:'10px'}}>Resume</Button></a>
 </Fade>
 {/* <AnimatedButton>Example Button</AnimatedButton> */}

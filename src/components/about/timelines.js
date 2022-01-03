@@ -1,21 +1,27 @@
 let timelineElements = [
-    
+  // `Have Built and Deployed the web application as a pilot Full stack developer
+  // from Scratch to deployment (Azure)
+  //  It enables highly enrich UI components which has been done 
+  // via react and Python flask as backend 
+  //  which helps to manage the Process flow of an entire project which has
+  // been used across thousands of users in an MNC MARS Inc`    
     {
         id: 1,
         title: "TheMathCompany",
         location: "Full Stack Developer",
         description:
-          // "Working hand-in-hand with front-end developers by providing the outward facing web application elements server-side logic. Creating the logic to make the web app function properly, and accomplishing this through the use of server-side scripting languages.",
         `Have Built and Deployed the web application as a pilot Full stack developer
 from Scratch to deployment (Azure)
- It enables highly enrich UI components which has been done 
-via react and Python flask as backend 
  which helps to manage the Process flow of an entire project which has
-been used across thousands of users in an MNC MARS Inc`,
+been used across thousands of users in an MNC MARS Inc`
+,
         
         buttonText: "View Backend Projects",
         date: "March 2021 - Present",
-        icon: "work",
+      awards:[{name:'Appreciation award',url:'https://drive.google.com/file/d/1e67jJBbZy-CQjqYkO4EpkhKGjUo-XcMa/view?usp=sharing',iconUrl:'https://drive.google.com/file/d/1THcVJF_tlP0B_P27EguuseYYTjG_YkQu/view?usp=sharing'},
+      {name:'Mentorship Excellence',url:'https://drive.google.com/file/d/10JQBJl5S_nb6yBhmF1nfw2-XfGNDtpPg/view?usp=sharing',iconUrl:'https://drive.google.com/file/d/1-YtXCHP6wrWE5WYF0CSYznq4UONb543Y/view?usp=sharing'}],
+      awardUrl:['https://drive.google.com/file/d/1e67jJBbZy-CQjqYkO4EpkhKGjUo-XcMa/view?usp=sharing','https://drive.google.com/file/d/10JQBJl5S_nb6yBhmF1nfw2-XfGNDtpPg/view?usp=sharing'],
+      icon: "work",
       },
 
     {

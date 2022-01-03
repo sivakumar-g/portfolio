@@ -17,6 +17,7 @@ import Fade from "react-reveal/Fade";
           color: 'yellow'
         }}
       >
+        <span style={{fontSize:'10px',color:'white'}}>Tap here</span>
 <div style={{fontSize:'16px',color:'white'}}>{props?.dataobj?.ftitle}</div>
 <br/>
 {props?.dataobj?.flink != null || props?.dataobj?.flink != undefined ?(
@@ -108,10 +109,10 @@ users and buy the products through the application`,
 
 {'ftitle':'Assesment Portal Application: [Spring Boot]',
 
-  'fbody':`A Quiz assesment portal apploication where admins can create and publish Quiz contest where people
+  'fbody':`A Quiz assessment portal application where admins can create and publish Quiz contest where people
   can participate and being get assessed which is been built on top of Spring Boot Java and Angular on UI
   
-  Where the assesment scored has been calculated and shown to the users at the end of the Assesments`,
+  Where the assessment scored has been calculated and shown to the users at the end of the Assessments`,
 
 'ftech':`Technologies: SQL, Angular, Spring Boot`
 },
