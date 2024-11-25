@@ -50,7 +50,7 @@ const Cut = ({ progress }) => (
         >
             <div className={indicator} >
                 {/* <div>{progress}%</div> */}
-                  DSA 200+ problems Solved 
+                  DSA 300+ problems Solved 
 <hr />
             </div>
         </ProgressBar>

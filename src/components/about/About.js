@@ -106,7 +106,7 @@ useEffect(() => {
         </p>
 
         <p className="a-desc">
-          I am a Full Stack Developer with more than 2.5 years of Experience building Scalable 
+          I am a Full Stack Developer with more than 5.5 years of Experience building Scalable 
 web applications to address real world problems by building tangible software
 products & a passionate mentor to share Knowledge and enrich people
         </p>

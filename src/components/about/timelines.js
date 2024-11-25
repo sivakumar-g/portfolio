@@ -5,8 +5,23 @@ let timelineElements = [
   // via react and Python flask as backend 
   //  which helps to manage the Process flow of an entire project which has
   // been used across thousands of users in an MNC MARS Inc`    
-    {
-        id: 1,
+  {
+    id: 1,
+    title: "Walmart Global Tech, India",
+    location: "Backend Developer",
+    description:
+      `Have been working accross large scale Async microservice Based System, Extensively worked accross tech
+      Such as SpringBoot, Java, Kafka, ELK, Micorservices and more` ,
+    buttonText: "View Backend Projects",
+    date: "June 2022 - Present",
+
+    awards:[{name:'(Tech Initiative)Bravo Award'},
+      {name:'Inhouse Innovation (Bravo)',url:'NA'}],
+
+      icon: "work",
+  },
+  {
+        id: 2,
         title: "TheMathCompany",
         location: "Full Stack Developer",
         description:
@@ -25,7 +40,7 @@ been used across thousands of users in an MNC MARS Inc`
       },
 
     {
-      id: 2,
+      id: 3,
       title: "Tata Consultancy Services",
       location: "System Engineer(Developer)",
       description:
@@ -37,7 +52,7 @@ all over the Country for financial and Income Tax Management.`,
       icon: "work",
     },
     {
-      id: 3,
+      id: 4,
       title: "Velammal college of engineering and Technology ",
       location: "Bachelor of Engineering",
       description:
